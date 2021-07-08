@@ -58,7 +58,8 @@ form {
   --accent: #fff;
 }
 .app {
-  height: 1000px;
+  height: 1000px
+;
   width: 100%;
   position: fixed;
   top: 0;
